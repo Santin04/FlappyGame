@@ -3,8 +3,8 @@
 </h1>
 
 <h2>💻Description:</h2>
-famous game "Flappy Game" but now in an innovative way, it can be played on the web
-translate:
+famous game "Flappy Game" but now in an innovative way, it can be played on the web<br>
+translate:<br>
 famoso jogo "Flappy Game" mas agora de forma inovadora, pode ser jogado na web
 
 <hr>
