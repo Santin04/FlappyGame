@@ -1,2 +1,7 @@
-# FlappyGame
-Flappy bird game, using HTML, CSS and JavaScript
+# FlappyGame - by: Santin04
+
+<h2>🔧tools: </h2>
+
+- HTML
+- CSS
+- JavaScript
